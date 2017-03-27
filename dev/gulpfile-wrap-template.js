@@ -4,7 +4,7 @@
   <%= contents %>
   
   /*
-   * Use SweetAlert with RequireJS
+   * Use SweetAlert with RequireJS xxxxx
    */
   
   if (typeof define === 'function' && define.amd) {
